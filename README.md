@@ -1,2 +1,2 @@
-# demo
-For Demo only
+# Demo
+We will remove this repo later
